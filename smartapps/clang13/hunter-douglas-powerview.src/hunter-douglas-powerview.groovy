@@ -555,4 +555,3 @@ def callPowerView(String path, callback, Map query = null, String method = "GET"
     
     sendHubCommand(hubAction)
 }
-
